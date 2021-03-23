@@ -1,0 +1,58 @@
+[
+  {
+    "id": "en_Black_Rhino",
+    "name": "Black Rhino", 
+    "scientificName": "Diceros bicornis",
+    "endangeredStatus": "Critically Endangered",
+    "imageUrl": "/images/Black_Rhino.jpeg"
+  },
+  {
+    "id": "en_Red_Panda",
+    "name": "Red Panda", 
+    "scientificName": "Ailurus fulgens",
+    "endangeredStatus": "Critically Endangered",
+    "imageUrl": "/images/Red_Panda.jpeg"
+  },
+  {
+    "id": "en_Snow_Leopard",
+    "name": "Snow Leopard", 
+    "scientificName": "Panthera uncia",
+    "endangeredStatus": "Vulnerable",
+    "imageUrl": "/images/Snow_Leopard.jpeg"
+  },
+  {
+    "id": "en_Giant_Panda",
+    "name": "Giant Panda", 
+    "scientificName": "Ailuropoda melanoleuca",
+    "endangeredStatus": "Vulnerable",
+    "imageUrl": "/images/Giant_Panda.jpeg"
+  },
+  {
+    "id": "en_Jaguar",
+    "name": "Jaguar", 
+    "scientificName": "Panthera onca",
+    "endangeredStatus": "Near Threatened",
+    "imageUrl": "/images/Jaguar.jpeg"
+  },
+  {
+    "id": "en_Tiger",
+    "name": "Tiger", 
+    "scientificName": "Panthera tigris",
+    "endangeredStatus": "Endangered",
+    "imageUrl": "/images/Tiger.jpeg"
+  },
+  {
+    "id": "en_African_Elephant",
+    "name": "African Elephant", 
+    "scientificName": "Loxodonta africana",
+    "endangeredStatus": "Vulnerable",
+    "imageUrl": "/images/African_Elephant.jpeg"
+  },
+  {
+    "id": "en_Macaw",
+    "name": "Macaw", 
+    "scientificName": "Ara ararauna",
+    "endangeredStatus": "Least Concern",
+    "imageUrl": "/images/Macaw.jpeg"
+  }
+]
